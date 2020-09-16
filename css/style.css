@@ -9044,6 +9044,7 @@ textarea.form-control {
       padding-bottom: 5em; } }
 
 .ftco-animate {
+  margin-top: 0.5em;
   opacity: 0;
   visibility: hidden; }
 
@@ -9063,7 +9064,7 @@ textarea.form-control {
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 4em 0; } }
 
 .ftco-no-pt {
   padding-top: 0 !important; }
